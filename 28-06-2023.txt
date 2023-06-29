@@ -1,0 +1,9 @@
+Woke up and started with the following leetcode problems , longest palindromic substring took a lot of time to solve , studied till 6 pm and later time was spent on youtube and reels doing timepass as I wasnt feeling productive like before . And in the end before sleep I did JO.
+
+238. Product of array except itself
+128. Longest Consecutive Sequence
+3. Longest Substring Without Repeating Characters
+5. Longest Palindromic Substring
+647. Palindromic Substrings
+
+
