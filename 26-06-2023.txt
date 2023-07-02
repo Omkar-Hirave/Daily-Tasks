@@ -1,0 +1,7 @@
+Today I woke up and started with gas station and rotate image example , saw some videos about it , spent a hell lotta time of rotate image to see other solutions. Also completed the ATOI problem on leetcode spend a ample amount of time understanding integer overflow test case. Got the approach how exactly the code is working .
+
+So , problems solved today :
+1 . Gas station 
+2 . String to Integer Conversion
+3  48. Rotate Image 
+4 . 128. Longest Consecutive Sequence
