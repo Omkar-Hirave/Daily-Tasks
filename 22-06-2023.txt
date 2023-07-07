@@ -1,2 +1,0 @@
-Woke up in the evening and started with Jenny's lectures where in I studied how a stack can be implemented using arrays , how the top pointer moves etc  , also studied implementation of queues such as circular queue etc.
-Took an afternoon nap , started revising leetcode problems , spend a lot of time of jump game 2 problem , later got stuck in the kadane's algorithm and best time to sell stock problem , later listened to marathi songs , watched 2 videos on use of happens to be , happens etc . Had a positive vibe of the day also didnt jerked off.
