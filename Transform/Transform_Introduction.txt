@@ -1,0 +1,16 @@
+1 . transform : scale(2):
+    This property will increase the size of the item 2 times its original size.
+    We can also set the direction we want to increase the size of the items 
+    Example : scaleX(3) scaleY(2) scaleZ(3)
+
+2. transform : skew(30deg):
+    This property will increase the skew the item by some degrees in either X or Y direction 
+    Example : skew(30deg) skewX(40deg) skewY(50deg)
+
+3. Transform : translate(20px):
+    This property will will move the item to from its current position.It can be either X or Y direction
+    Example : translate(20px)  translate(40px) translate(60px)
+
+4. Transform : rotate(34deg):
+    This property is used to rotate the element in either left or right direction or both
+    Example : translate(20px) translateX(40px) translate(60px)
