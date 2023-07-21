@@ -1,0 +1,16 @@
+1. transition-duration : 5s ;
+    The transition-duration property is used to decide how much time the transition will work.
+
+2.  transition-property : border-radius , background-color;
+    The transition-property is used to decide on how many CSS properties we want to apply the transition
+    It has a default value of all which is not reccomended to use as it reduces the performance
+
+3.  transition-delay: 5s ;
+    This property is used to decide after how much time you want the transition to start.Here , in the above example transition will start after 5 seconds .
+
+4. transition-timing-function : ease-in;
+    i.ease : Transition will start slow , will be fast in the middle and end slow
+    ii.ease-in : Transition will start slow , will be fast in the middle and end fast
+    iii.ease-out : Transition will start fast , will be fast in the middle and end slow
+    iv.ease-in-out: Transition will start slow , will be fast in the middle and end slow
+    v.cubic-bezzier : You can give values to this function in the browser.
