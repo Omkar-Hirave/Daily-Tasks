@@ -1,0 +1,34 @@
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: steelblue;
+    margin:80px auto;
+    /* transform: scale(2); */
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: tomato;
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* To make the size of the .box 1.5 times its original size */
+/* .box:hover{
+    transform: scaleX(1.5);
+} */
+
+/* To skew the element 20deg in X and 30deg in Y direction */    
+/* .box:hover{
+    transform: skew(20deg , 30deg);
+} */
+
+/* To move the item from its current position */
+.box:hover{
+    transform:translate(120px);
+}
+/* To rotate the item by some degree */
+.box:hover{
+    transform:rotate(45deg);
+}
