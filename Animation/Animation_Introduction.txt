@@ -1,0 +1,21 @@
+1. Animation-name : circles
+   Animation name is used to give name to the animation which is passed to the keyframes.
+
+2.animation-duration : 4s 
+   This property is used to specify how much time the animation will run.
+
+3.animation-delay : 4s;
+    This property is used to decide how much longer time the animation should wait before starting it.
+
+4.animation-iteration-count : infinite:
+    This property is used to decide how many times the animation should work.
+
+5.animation-fill-mode : {backwords , forwards , both} 
+    This property is used to decide what it should do when should the animation stop when the animation is over.
+
+6.animation-direction : {reverse , normal , alternate , alternate-reverse}
+    This property is used to decide in which direction the animation should work .
+
+7.animation-timing-function : {ease-in , ease-out , ease-in-out } 
+    This property is used to decide how the animation should work.It is same as transition-timing-function
+
